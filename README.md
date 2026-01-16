@@ -5,6 +5,7 @@
 This project is an **n8n workflow** designed for job seekers and developers who want to **automate their LinkedIn job search**. It automatically fetches job listings based on your custom filters, scores each opportunity using AI, logs all results into **Google Sheets**, and sends **Telegram alerts** for the most relevant matches — making your job application process **smarter, faster, and more efficient**. 🔍✨
 
 ---
+![WorkFlow](https://github.com/user-attachments/assets/5c7b1d9f-0df5-4b1e-a2b0-c8f51701cc3c)
 
 ## ⭐ Features
 
@@ -57,9 +58,14 @@ This project is an **n8n workflow** designed for job seekers and developers who 
 ## 📈 Example Output
 
 - **Google Sheets logs:** job title, company, link, AI score, timestamp  
-- **Telegram:** “🔥 New high-score job found: Senior Backend Engineer at X (Score: 92)”  
+- **Telegram:** “🔥 New high-score job found: Senior Backend Engineer at X (Score: 92)”
 
 ---
+
+- **Google Sheets & Telegram logs:**
+  
+![Sheet](https://github.com/user-attachments/assets/3e1cd400-87a4-46db-9717-0772a2e96ed1)
+![Telegram Job Update](https://github.com/user-attachments/assets/cb87427b-e510-4993-8c1f-074ca66d4356)
 
 ---
 
