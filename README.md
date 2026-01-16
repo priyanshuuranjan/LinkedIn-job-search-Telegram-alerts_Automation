@@ -2,7 +2,7 @@
 
 # 🚀 Automated LinkedIn Job Search Workflow (n8n)
 
-This project is an **n8n workflow** designed for job seekers and developers who want to **automate their LinkedIn job search**. It automatically fetches job listings based on your custom filters, scores each opportunity using AI, logs all results into **Google Sheets**, and sends **Telegram alerts** for the most relevant matches — making your job application process **smarter, faster, and more efficient**. 🔍✨
+This project is an **n8n workflow** designed for job seekers and developers who want to **automate their LinkedIn job search and make job switching easier**. It automatically fetches job listings based on your custom filters, scores each opportunity using AI, logs all results into **Google Sheets**, and sends **Telegram alerts** for the most relevant matches — making your job application process **smarter, faster, and more efficient**. 🔍✨
 
 ---
 ![WorkFlow](https://github.com/user-attachments/assets/5c7b1d9f-0df5-4b1e-a2b0-c8f51701cc3c)
